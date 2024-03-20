@@ -4,7 +4,7 @@ Aşağıdaki linke tıklayın ve giriş yapın.
 
 ```bash
 https://developer.spotify.com/dashboard/applications
-```
+``` 
 ![Screenshot](images/assets.png)
 
 - Login olun.  
